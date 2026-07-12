@@ -1,6 +1,6 @@
 
 # About Me:
-Hi 👋🏻, I'm an ENGINEER! I ENGINEER stuff! I know alot electrical ENGINEERING and computer ENGINEERING,<br>therefore I'm a systems ENGINEER!
+Hi 👋🏻, I'm an ENGINEER! I ENGINEER stuff! I know alot electrical ENGINEERING, computer ENGINEERING, and systems ENGINEERING!
 
 
 ## 🌐 Socials:
